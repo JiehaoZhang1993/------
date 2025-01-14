@@ -4,4 +4,5 @@ numpy
 scikit-learn
 plotly
 openpyxl
-pickle-mixin 
+pickle-mixin
+shap 
